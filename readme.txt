@@ -47,13 +47,9 @@ As DiceLock Comment Translator does depend on Google translation services, it de
 
 == Screenshots ==
 
-DiceLock Comment Translator inserts a link at the bottom and above of the footer of you pages, posts ans categories. This link allows to show/hide the translation form.
+1. Link at the bottom and above of the footer of you pages, posts ans categories.
 
-1. Translator-form.JPG
-
-Once the form is shown your visitors get the following, they can insert the text that they want to translate in text area and select the original language and the language they want it to be translated.
-
-2. Translator-link.JPG
+2. Form showed to perform the translation.
 
 == Changelog ==
 
@@ -71,4 +67,4 @@ DiceLock Comment Translator can be loaded through a direct call to the function 
 
 If it is loaded in this way, only the first called DiceLock Comment Translator link will be shown. 
 
-`<?php code(); // goes in backticks ?>`
+
